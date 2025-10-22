@@ -1,0 +1,24 @@
+# Visual Studio temporary files, build results, and user-specific files
+.vs/
+bin/
+obj/
+Debug/
+Release/
+*.user
+*.suo
+*.cache
+*.pdb
+*.log
+*.vsidx
+
+# Windows files
+Thumbs.db
+*.tmp
+
+# Build artifacts
+/packages/
+*.exe
+*.dll
+*.bak
+*.swp
+*.db

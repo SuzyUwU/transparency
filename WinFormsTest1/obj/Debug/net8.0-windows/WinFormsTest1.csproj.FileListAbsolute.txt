@@ -14,3 +14,4 @@ D:\Project File\Research\VS 2022\WinFormsTest1\WinFormsTest1\obj\Debug\net8.0-wi
 D:\Project File\Research\VS 2022\WinFormsTest1\WinFormsTest1\obj\Debug\net8.0-windows\WinFormsTest1.pdb
 D:\Project File\Research\VS 2022\WinFormsTest1\WinFormsTest1\obj\Debug\net8.0-windows\WinFormsTest1.genruntimeconfig.cache
 D:\Project File\Research\VS 2022\WinFormsTest1\WinFormsTest1\obj\Debug\net8.0-windows\ref\WinFormsTest1.dll
+D:\Project File\Research\VS 2022\WinFormsTest1\WinFormsTest1\obj\Debug\net8.0-windows\WinFormsTest1.sourcelink.json
